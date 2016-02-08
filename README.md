@@ -1,4 +1,4 @@
-# Dillinger
+# autorenew-letsencrypt-cert
 
 This script automates renewing your Let's Encrypt SSL certificate. 
 
