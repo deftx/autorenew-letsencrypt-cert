@@ -1,0 +1,1 @@
+@monthly /root/bin/renew-ssl-cert.sh mydomain.com
